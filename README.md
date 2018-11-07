@@ -1,8 +1,4 @@
-# RUNUO
-Import of runuo.com source repository
-
-RunUO Server
-
+# RunUO Server
 What is RunUO?
 
 RunUO is unlike any alternative out there for a multitude of reasons. Most of the alternatives to RunUO refer to themselves as emulators but we consider RunUO to be a server software package. To us we do not emulate anything, we create a feature rich game server with an Ultima Online gaming layer applied to it. It is theoretically possible to do nearly anything you want with our server package because of its customization features. You will find a few different terms used when discussing our software.
